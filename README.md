@@ -27,3 +27,13 @@ Strong interest in <b>OSINT</b> focused on structured research, source verificat
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+# 👤 Contact
+
+If you have any ideas or collaboration proposals, feel free to reach out.
+
+- 💼 LinkedIn: https://linkedin.com/in/hrach347
+- 📦 NPM: https://www.npmjs.com/~hrach347
+- 🐱 GitHub: https://github.com/hrach347
